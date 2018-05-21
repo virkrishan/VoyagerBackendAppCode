@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/virkrishan/VoyagerBackendAppCode/issues"
   },
-  "homepage": "https://github.com/virkrishan/VoyagerBackendAppCode#readme"
+  "homepage": "https://github.com/virkrishan/VoyagerBackendAppCode#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-mongo": "^2.0.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.1.1",
+    "nodemon": "^1.17.4"
+  }
 }
